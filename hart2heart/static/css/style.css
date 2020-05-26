@@ -1,0 +1,49 @@
+html {
+    background: url(/static/images/water.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body {
+    font-family: Rock Salt;
+    background: transparent;
+}
+
+.navbar-brand {
+    color: black;
+}
+
+.nav-link {
+    margin-left: 6em;
+    margin-right: 6em;
+    color: black;
+}
+
+a:hover {
+    color: white;
+}
+
+.dropdown-item {
+    color: wheat;
+}
+
+h1, h3 {
+    text-align: center;
+    color: black;
+}
+
+nav {
+    margin-top: 1em;
+    margin-left: 1em;
+    margin-bottom: 10em;
+}
+
+h1 {
+    margin-bottom: 3em;
+}
+
+span {
+    color: white;
+}
