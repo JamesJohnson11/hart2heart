@@ -26,7 +26,7 @@ a:hover {
 }
 
 .dropdown-menu {
-    background: transparent;
+    /*background: transparent;*/
     border: none;
 }
 
@@ -36,7 +36,6 @@ a:hover {
 
 .dropdown-item:hover {
     background: transparent;
-    color: ivory;
 }
 
 h1, h3 {
@@ -58,8 +57,17 @@ span {
     color: red;
 }
 
-.header {
-    width: 90%;
-    background-color: white;
+.jumbotron {
     margin-left: 5%;
+    margin-right: 5%;
+}
+
+footer {
+    color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: transparent;
+    text-align: center;
+    padding-bottom: 5px;
 }
