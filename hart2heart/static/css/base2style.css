@@ -47,17 +47,19 @@ h1, h3 {
 nav {
     margin-top: 1em;
     margin-left: 1em;
-    margin-bottom: 10em;
+    margin-bottom: 4em;
 }
 
 h1 {
-    margin-bottom: 3em;
+    margin-bottom: 1em;
 }
 
 span {
-    color: white;
+    color: red;
 }
 
-.heart {
-    color: red;
+.header {
+    width: 90%;
+    background-color: white;
+    margin-left: 5%;
 }
